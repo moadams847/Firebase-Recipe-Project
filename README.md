@@ -1,4 +1,4 @@
-# Recipe App with Firebase and Webpack
+# Recipe App with Firebase
 
 A simple recipe app for keeping track of your mother's favourite dishes. You can also include a list of the food's ingredients, a link to a blog or vlog that shows how it's created, and other information.
 
@@ -8,21 +8,16 @@ I started this endeavour because I adore my mother's cooking and believe she is 
 
 ## Screenshot
 
-[![Recipe App with Firebase and Webpack](imgs/recipe.png "Recipe App")]()
+[![Recipe App with Firebase]()]()
 
 ## URL
 
-[Recipe App with Firebase and Webpack](https://fervent-poincare-753525.netlify.app)
+[Recipe App with Firebase]()
 
 ## Installation
 
 1. Clone Repo
-2. cd to the directory where cloned folder is locacted
-3. run: npm install in your shell
 
-```bash
-npm install
-```
 
 ## Tech/framework used
 

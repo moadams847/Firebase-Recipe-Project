@@ -8,7 +8,7 @@ I started this endeavour because I adore my mother's cooking and believe she is 
 
 ## Screenshot
 
-[![Recipe App with Firebase]()]()
+[![Recipe App with Firebase](recipe.PNG)]()
 
 ## URL
 

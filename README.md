@@ -31,7 +31,7 @@ npm install
 3. Bootstrap 5
 4. JavaScript
 5. Firebase
-6. Webpack
+
 
 ## Contributing
 
